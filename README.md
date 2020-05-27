@@ -14,9 +14,11 @@ We hope to create a website that assists the CCA sign ups and make the CCA manag
 
 ## User Stories
      
-1.As a resident, I want to be able to sign up for the CCA I want through an online portal.
-4.As a head of CCA, I want to be able to update my members' attendance and points online.
-5.As a head of CCA, I want to be able to get information about my members more easily.
+    1.As a resident, I want to be able to sign up for the CCA I want through an online portal.
+
+    2.As a head of CCA, I want to be able to update my members' attendance and points online.
+    
+    3.As a head of CCA, I want to be able to get information about my members more easily.
 
 ## Project Scope:
 An online platform for halls to better organize CCA affairs and other relevant information, such as enrolment, records of members' attendance and other information. (similar to something like ModReg)
