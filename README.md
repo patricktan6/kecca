@@ -31,5 +31,9 @@ An online platform for halls to better organize CCA affairs and other relevant i
     Allow CCA to post announcements about events or information about the time and venue of training sessions.
 
 ## Project Log:
-     Yi Xian: 140 hours
-     Xi Zhe: 140 hours
+     
+| Task Descriptions | Date |          Hours           | Remarks |
+|                   |      | Tan Xi Zhe | Lye Yi Xian |         |
+| ----------------- | ---- | ---------- | ----------- | ------- |
+| Skills pickup (ReactJS, Firebase, HTML, CSS, etc.) | 21 May - 31 May | 30 | 30 |      |
+| First Meeting (Project Framework) | 1 June | 2 | 2 | Discuss what framework we are using |
