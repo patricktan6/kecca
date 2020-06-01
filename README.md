@@ -32,9 +32,7 @@ An online platform for halls to better organize CCA affairs and other relevant i
 
 ## Project Log:
      
-| Task Descriptions | Date |          Hours           | Remarks |
-| ----------------- | ---- | ------------------------ | ------- |
-|                   |      | Tan Xi Zhe | Lye Yi Xian |         |
+| Task Descriptions | Date | Hours(Tan Xi Zhe) | Hours(Lye Yi Xian) | Remarks |
 | ----------------- | ---- | ---------- | ----------- | ------- |
 | Skills pickup (ReactJS, Firebase, HTML, CSS, etc.) | 21 May - 31 May | 30 | 30 |      |
 | First Meeting (Project Framework) | 1 June | 2 | 2 | Discuss what framework we are using |
