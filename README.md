@@ -36,3 +36,12 @@ An online platform for halls to better organize CCA affairs and other relevant i
 | ----------------- | ---- | ---------- | ----------- | ------- |
 | Skills pickup (ReactJS, Firebase, HTML, CSS, etc.) | 21 May - 31 May | 30 | 30 |      |
 | First Meeting (Project Framework) | 1 June | 2 | 2 | Discuss what framework we are using |
+
+## Upcoming Plan:
+
+| Task Descriptions | Date |
+| --- | ---|
+| Have a simple working webpage, Login Feature | Early June |
+| Database, UI | Mid June |
+| Enrol Feature, Attendance Marking | Late June |
+| Testing, Debugging, Final Fine Tuning | July |
