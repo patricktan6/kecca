@@ -1,7 +1,7 @@
 import React, {useContext, useCallback} from 'react';
 import { withRouter, Redirect } from 'react-router';
 import fire from '../config/Fire';
-import AuthContext from '../Auth';
+import AuthContext from "../Auth";
 
 const SignIn = ({ history }) => {
     const handleSignIn = useCallback(

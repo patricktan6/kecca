@@ -35,7 +35,9 @@
   },
   "description": "## Level of Achievement:",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "firestore-export-import": "^0.6.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/patricktan6/kecca.git"

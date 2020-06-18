@@ -11,7 +11,8 @@ function App() {
   return (
     <AuthProvider>
       <Router>
-        <div className="App">
+        <div>
+          <h1>Welcome to KECCA</h1>
           <PrivateRoute exact path='/' component={Home} />
           <Route exact path='/signin' component={SignIn} />
           <Route exact path='/signup' component={SignUp} />
