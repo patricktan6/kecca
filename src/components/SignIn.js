@@ -67,6 +67,7 @@ const SignIn = ({ history }) => {
             </div>
             <button className="btn" type="submit" >Sign In</button>
           </form>
+          <h4>New to KECCA?</h4><a href='/signup' style={{color: 'white'}} >Create Account</a>
         </div>
       </div>
   );
