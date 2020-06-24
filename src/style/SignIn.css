@@ -73,3 +73,7 @@
   cursor: pointer;
   margin: 12px 0;
 }
+
+.btn:hover {
+  border-color: #36882f;
+}
