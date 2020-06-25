@@ -30,7 +30,7 @@ const SignIn = ({ history }) => {
   return (
     <div className="bg">
       <div className="login-box">
-        <h1>Login</h1>
+        <h1>KECCA</h1>
         <form onSubmit={handleSignIn}>
           <div className="textbox">
             <svg
