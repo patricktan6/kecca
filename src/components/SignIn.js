@@ -71,7 +71,7 @@ const SignIn = ({ history }) => {
         </form>
         <p>
           New to KECCA?{" "}
-          <a href="/signup" style={{ color: "white" }}>
+          <a href="/signup" style={{ color: "black" }}>
             Create Account
           </a>
         </p>
