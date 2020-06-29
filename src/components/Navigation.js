@@ -9,7 +9,7 @@ const Navigation = () => (
     <AuthContext.Consumer>
       {(currentUser) => {
         console.log(currentUser);
-        return currentUser ? <NavigationAdmin /> : <NavigationUser />;
+        return currentUser ? <NavigationUser /> : <NavigationAdmin />;
       }}
     </AuthContext.Consumer>
   </div>

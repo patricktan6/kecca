@@ -63,7 +63,7 @@
   margin: 0 10px;
 }
 
-.btn {
+.button {
   width: 100%;
   background: none;
   border: 2px solid #4caf50;
@@ -74,6 +74,6 @@
   margin: 12px 0;
 }
 
-.btn:hover {
+.button:hover {
   border-color: #36882f;
 }
