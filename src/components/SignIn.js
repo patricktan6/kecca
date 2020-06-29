@@ -3,6 +3,7 @@ import { withRouter, Redirect } from "react-router";
 import fire from "../config/Fire";
 import AuthContext from "../Auth";
 import "../style/SignIn.css";
+import * as ROUTES from "../constants/routes";
 
 const SignIn = ({ history }) => {
   const handleSignIn = useCallback(
@@ -24,7 +25,7 @@ const SignIn = ({ history }) => {
   const { currentUser } = useContext(AuthContext);
 
   if (currentUser) {
-    return <Redirect to="/" />;
+    return <Redirect to={ROUTES.HOME} />;
   }
 
   return (
@@ -71,7 +72,7 @@ const SignIn = ({ history }) => {
         </form>
         <p>
           New to KECCA?{" "}
-          <a href="/signup" style={{ color: "black" }}>
+          <a href={ROUTES.SIGN_UP} style={{ color: "black" }}>
             Create Account
           </a>
         </p>
