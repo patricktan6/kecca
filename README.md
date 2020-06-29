@@ -37,6 +37,7 @@ An online platform for halls to better organize CCA affairs and other relevant i
 | Mission Control 1 | 16 May | 2 | 2 | 1. Project consultation with advisor<br/><br/>2. Attend tutorial session (HTML, CSS, ReactJS) |
 | Skills pickup (ReactJS, Firebase, HTML, CSS, etc.) | 21 May - 31 May | 30 | 30 | Learnt the technology neccessary for our project |
 | First Meeting (Project Framework) | 1 June | 2 | 2 | 1. Worked on Milestone 1<br/><br/>2. Discuss what framework we are using |
+| Implemented Login Features |  |  | - |  |
 | Total hours || 34 | 34 | 68 |
 
 ## Upcoming Plan:
