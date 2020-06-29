@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { NavLink } from "react-router-dom";
+import fire from "../../config/Fire";
 
 class Navigation extends Component {
   render() {
@@ -36,6 +37,12 @@ class Navigation extends Component {
             </NavLink>
           </li>
         </ul>
+        <button
+          className="btn btn-outline-success my-2 my-sm-0 ml-auto"
+          onClick={() => fire.auth().signOut()}
+        >
+          Sign Out
+        </button>
       </nav>
     );
   }
