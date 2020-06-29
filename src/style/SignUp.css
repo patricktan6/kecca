@@ -1,13 +1,3 @@
-/* .bg {
-  background-image: url("../image/background3.jpg");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-color: #464646;
-  height: 100vh;
-} */
-
 .bg {
   margin: 0;
   padding: 0;
@@ -20,7 +10,7 @@
   color: black;
 }
 
-.login-box {
+.sign-up-box {
   width: 290px;
   position: absolute;
   top: 50%;
@@ -28,7 +18,7 @@
   transform: translate(-50%, -50%);
 }
 
-.login-box h1 {
+.sign-up-box h1 {
   color: black;
   float: left;
   font-size: 40px;
