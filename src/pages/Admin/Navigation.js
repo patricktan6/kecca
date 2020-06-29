@@ -1,8 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
 import { NavLink } from "react-router-dom";
 import fire from "../../config/Fire";
 
-class Navigation extends Component {
+class Navigation extends React.Component {
   render() {
     return (
       <nav className="navbar navbar-expand navbar-light bg-light">

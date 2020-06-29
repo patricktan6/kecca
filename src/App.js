@@ -6,7 +6,7 @@ import Home from "./components/Home";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import "./App.css";
 import PrivateRoute from "./PrivateRoute";
-import Admin from "./pages/Admin/index";
+import Admin from "./pages/Admin";
 
 function App() {
   return (
