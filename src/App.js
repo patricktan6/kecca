@@ -6,6 +6,7 @@ import Home from "./components/Home";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import "./App.css";
 import PrivateRoute from "./PrivateRoute";
+import Admin from "./pages/Admin/index";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Router>
         <div>
           <PrivateRoute exact path="/" component={Home} />
+          <Route exact path="/admin" component={Admin} />
           <Route exact path="/signin" component={SignIn} />
           <Route exact path="/signup" component={SignUp} />
         </div>
