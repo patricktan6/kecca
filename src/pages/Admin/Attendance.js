@@ -1,6 +1,6 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
-export class Request extends Component {
+class Attendance extends Component {
     render() {
         return (
             <div>
@@ -10,4 +10,4 @@ export class Request extends Component {
     }
 }
 
-export default Request
+export default Attendance
