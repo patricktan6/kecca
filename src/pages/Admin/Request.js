@@ -1,11 +1,9 @@
-import React from "react";
+import React, { Component } from "react";
 
-const Request = () => {
-  return (
-    <div>
-      <h1>Request</h1>
-    </div>
-  );
-};
+export class Request extends Component {
+  render() {
+    return <div></div>;
+  }
+}
 
 export default Request;
