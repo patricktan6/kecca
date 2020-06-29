@@ -40,16 +40,30 @@ An online platform for halls to better organize CCA affairs and other relevant i
 | Created React Application |  |  |  | Implemented Simple Login and Sign Up pages |
 | Implemented Login Features |  |  | - | Using Firebase as our backend services |
 | CSS styling |  | - | 2 | Do some simple styiling on Login and Sign Up pages |
-| Total hours || 34 | 36 | 70 |
+| Meeting |  | 2 | 2 | Discuss about the structure of our website |
+| Total hours || 36 | 38 | 74 |
+
+## Implemented Features:
+
+1. Authentication (Login, Sign Up)
+2. Attendance Taking
+
+## Ongoing Features:
+
+1. Firebase Database
+2. Enrolment (CCA)
+3. Admin page
+4. User page
 
 ## Upcoming Plan:
 
 | Task Descriptions | Date |
 | --- | ---|
-| Have a simple working webpage, Login Feature | Early June |
-| Database, UI | Mid June |
-| Enrol Feature, Attendance Marking | Late June |
-| Testing, Debugging, Final Fine Tuning | July |
+| Database | Early July |
+| Enrolment | Mid July |
+| Admin page | Mid July |
+| User page | Late July |
+| Testing, Debugging, Final Fine Tuning | Late July |
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
