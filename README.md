@@ -43,7 +43,7 @@ An online platform for halls to better organize CCA affairs and other relevant i
 | CSS styling                                         |                 | -                 | 2                  | Do some styling on Login and Sign Up pages                                                    |
 | Meeting                                             |                 | 2                 | 2                  | Discuss about the structure of our website                                                    |
 | Created Admin page (React, Bootstrap, React Router) |                 | -                 | 2                  | Implemented a Navigation Bar for Admin page                                                   |
-| Attendance Taking feature                           |                 |                   | -                  | Admin Features                                                                                |
+| Attendance Taking feature                           |                 |                   | -                  | Implemented the frontend part                                                                 |
 | Total hours                                         |                 | 36                | 40                 | 76                                                                                            |
 
 ## Implemented Features:
