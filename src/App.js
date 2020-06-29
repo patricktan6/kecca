@@ -14,12 +14,8 @@ function App() {
       <Router>
         <div>
           <PrivateRoute exact path="/" component={Home} />
+          <Route exact path="/admin/*" component={Admin} />
           <Route exact path="/admin" component={Admin} />
-          <Route exact path="/admin/attendance" component={Admin} />
-          <Route exact path="/admin/home" component={Admin} />
-          <Route exact path="/admin/request" component={Admin} />
-          <Route exact path="/admin/members" component={Admin} />
-          <Route exact path="/admin/contact" component={Admin} />
           <Route exact path="/signin" component={SignIn} />
           <Route exact path="/signup" component={SignUp} />
         </div>

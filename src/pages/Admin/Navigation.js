@@ -6,7 +6,7 @@ class Navigation extends Component {
     return (
       <nav className="navbar navbar-expand navbar-light bg-light">
         <NavLink className="navbar-brand" to="/admin">
-          KECCA
+          KECCA <sup>Admin</sup>
         </NavLink>
 
         <ul className="navbar-nav">
