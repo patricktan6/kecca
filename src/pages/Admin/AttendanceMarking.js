@@ -1,11 +1,15 @@
-import React, { Component } from "react";
+import React from "react";
+import Event from "./Event";
 
-const AttendanceMarking = () => {
-  return (
-    <div>
-      <h1>Attendance Marking</h1>
-    </div>
-  );
-};
+class AttendanceMarking extends React.Component {
+
+  render() {
+    return (
+      <div>
+        <Event />
+      </div>
+    )
+  }
+}
 
 export default AttendanceMarking;
