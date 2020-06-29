@@ -68,20 +68,3 @@ function SignUp({ history }) {
 }
 
 export default withRouter(SignUp);
-
-{
-  /* <div>
-<h1>Sign Up</h1>
-<form onSubmit={handleSignUp} >
-    <label>
-        Email address:
-        <input name='email' type='email' placeholder='Email address' />
-    </label>
-    <label>
-        Password:
-        <input name='password' type='password' placeholder='Password' />
-    </label>
-    <button type='submit' >Sign Up</button>
-</form>
-</div> */
-}
