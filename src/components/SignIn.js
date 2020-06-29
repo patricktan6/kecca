@@ -25,7 +25,7 @@ const SignIn = ({ history }) => {
   const { currentUser } = useContext(AuthContext);
 
   if (currentUser) {
-    return <Redirect to={ROUTES.HOME} />;
+    return <Redirect to="/admin" />; // redirect to admin first
   }
 
   return (
@@ -66,7 +66,7 @@ const SignIn = ({ history }) => {
             </svg>
             <input name="password" type="password" placeholder="Password" />
           </div>
-          <button className="btn" type="submit">
+          <button className="button" type="submit">
             Sign In
           </button>
         </form>

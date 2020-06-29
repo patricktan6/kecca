@@ -58,7 +58,7 @@ function SignUp({ history }) {
             </svg>
             <input name="password" type="password" placeholder="Password" />
           </div>
-          <button className="btn" type="submit">
+          <button className="button" type="submit">
             Sign Up
           </button>
         </form>
