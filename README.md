@@ -38,25 +38,23 @@ An online platform for halls to better organize CCA affairs and other relevant i
 | Mission Control 1                                   | 16 May          | 2                 | 2                  | 1. Project consultation with advisor<br/><br/>2. Attend tutorial session (HTML, CSS, ReactJS) |
 | Skills pickup (ReactJS, Firebase, HTML, CSS, etc.)  | 21 May - 31 May | 30                | 30                 | Learnt the technology neccessary for our project                                              |
 | First Meeting (Project Framework)                   | 1 June          | 2                 | 2                  | 1. Worked on Milestone 1<br/><br/>2. Discuss what framework we are using                      |
-| Created React Application                           |                 |                   | -                  | Implemented Simple Login and Sign Up pages                                                    |
-| Implemented Login Features                          |                 |                   | -                  | Using Firebase as our backend services                                                        |
-| CSS styling                                         |                 | -                 | 2                  | Do some styling on Login and Sign Up pages                                                    |
-| Meeting                                             |                 | 2                 | 2                  | Discuss about the structure of our website                                                    |
-| Created Admin page (React, Bootstrap, React Router) |                 | -                 | 2                  | Implemented a Navigation Bar for Admin page                                                   |
-| Attendance Taking feature                           |                 |                   | -                  | Implemented the frontend part                                                                 |
-| Total hours                                         |                 | 36                | 40                 | 76                                                                                            |
+| Created React Application                           | 5 June          | 2                 | -                  | Implemented Simple Login and Sign Up pages                                                    |
+| Implemented Login Features                          | 10 June         | 3                 | -                  | Using Firebase as our backend services                                                        |
+| CSS styling                                         | 16 June         | -                 | 2                  | Do some styling on Login and Sign Up pages                                                    |
+| Meeting                                             | 20 June         | 2                 | 2                  | Discuss about the structure of our website                                                    |
+| Created Admin page (React, Bootstrap, React Router) | 23 June         | -                 | 2                  | Implemented a Navigation Bar for Admin page                                                   |
+| Attendance Taking feature                           | 28 June         | 1                 | -                  | Implemented the frontend part                                                                 |
+| Meeting                                             | 29 June         | 3                 | 3                  | Worked on Milestone 2                                                                         |
+| Total hours                                         |                 | 45                | 43                 | 88                                                                                            |
 
 ## Implemented Features:
 
 1. Authentication (Login, Sign Up)
-2. Attendance Taking
 
 ## Ongoing Features:
 
-1. Firebase Database
-2. Enrolment (CCA)
-3. Admin page
-4. User page
+1. Attendance Taking
+2. Enrolment
 
 ## Upcoming Plan:
 
