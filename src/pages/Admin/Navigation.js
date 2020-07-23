@@ -18,7 +18,7 @@ class Navigation extends React.Component {
           </li>
           <li className="nav-item">
             <NavLink className="nav-link" to="/admin/attendance">
-              Attendance Marking
+              Attendance
             </NavLink>
           </li>
           <li className="nav-item">

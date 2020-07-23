@@ -12,7 +12,7 @@ function SignUp({ history }) {
         await fire
           .auth()
           .createUserWithEmailAndPassword(email.value, password.value);
-        history.push("/");
+        history.push("/signin");
       } catch (error) {
         alert(error);
       }

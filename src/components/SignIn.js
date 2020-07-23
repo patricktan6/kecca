@@ -14,7 +14,7 @@ const SignIn = ({ history }) => {
         await fire
           .auth()
           .signInWithEmailAndPassword(email.value, password.value);
-        history.push("/");
+        history.push("/admin");
       } catch (error) {
         alert(error);
       }
